@@ -1,0 +1,96 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+eggs/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+# before PyInstaller builds the exe, so as not to infect the source.
+*.manifest
+*.spec
+
+# macOS
+.DS_Store
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Log files
+*.log
+
+# End of line character
+*.bak
+
+# pyenv
+.python-version
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# PyCharm
+.idea/
+
+# Spyder
+.spyderproject
+.spyderworkspace
+
+# Rope project settings
+.ropeproject
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Pytest
+__pytest_cache/
+pytestdebug.log
+
+# Virtual Environment
+pipenv/
+
+# Jupyter Lab workspace
+.jupyter/
+
+# Black formatter cache
+.pyright.cache/
+
+# Database
+*.sqlite3
+*.db
+
+#api keys
+keys.py
